@@ -1,1 +1,3 @@
 # Smooth Izhikevich
+
+Supporting the ... 
